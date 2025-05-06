@@ -1,6 +1,6 @@
 {
 	"name": "SoundJS",
-	"version": "1.0.0",
+	"version": "3.6.0",
 	"homepage": "https://github.com/CreateJS/SoundJS",
 	"authors": [
 		"lannymcnie",
@@ -14,13 +14,17 @@
 		"audio",
 		"webaudio",
 		"html5",
-		"createjs"
+		"createjs",
+		"htmx5",
+		"m4p*mp4",
+		"mp3*audio",
+		"video*sound",
 	],
 	"license": "MIT",
 	"ignore": [
 		"**/.*",
 		"node_modules",
-		"_assets",
+		"_assets.audio",
 		"bower_components",
 		".bower.json",
 		"build",
@@ -33,5 +37,6 @@
 		"src",
 		"tutorials",
 		"VERSIONS.txt"
+		"node_AI.json",
 	]
 }
